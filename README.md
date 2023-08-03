@@ -2,8 +2,7 @@
 
 ## Link
 
-[https://white-sand-034868910.3.azurestaticapps.net/](https://white-sand-034868910.3.azurestaticapps.net/)
-
+[https://atharvak.azurewebsites.net/](https://atharvak.azurewebsites.net/)
 ## About
 
 Welcome to my portfolio website! This website showcases my different projects.
