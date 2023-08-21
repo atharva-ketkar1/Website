@@ -3,6 +3,8 @@
 ## Link
 
 [https://atharvak.azurewebsites.net/](https://atharvak.azurewebsites.net/)
+
+**This link expired, and the new one is on github: https://atharva-ketkar1.github.io/**
 ## About
 
 Welcome to my portfolio website! This website showcases my different projects.
